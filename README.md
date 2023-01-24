@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ombasabuya
-- 👀 I’m interested in HTML , CSS ,JS GIT and  Web Technologies 
+- 👀 I’m interested in HTML , CSS ,JS GIT and  Rectjs Web Technologies 
 - 🌱 I’m currently learning Front End Web Development 
 - 💞️ I’m looking to collaborate on Web technologies 
 - 📫 How to reach me +254725852620
